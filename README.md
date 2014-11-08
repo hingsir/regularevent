@@ -1,7 +1,10 @@
-regularevent
+RegularEvent
 ============
 
 regular expression in event
+
+[![Build Status](https://travis-ci.org/waksana/regularevent.svg)](https://travis-ci.org/waksana/regularevent)
+[![NPM version](https://badge.fury.io/js/regularevent.png)](http://badge.fury.io/js/regularevent)
 
 a simple event system accept regular expressions
 
